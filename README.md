@@ -1,1 +1,1 @@
-# organizational-app
+  Data Science Exercises
